@@ -1,5 +1,5 @@
 # HProg
-It is my first C# program with some functions
+It is my first C# program with some functions.
 The program has:
 - Hash-encryption.
 This function can encrypt any entered value
