@@ -8,4 +8,4 @@ This function can start small virus on your PC, the virus can't make harm to you
 - Browser.
 Program has integral browser "HBrowser"
 - Bot.
-Bot can perform some commands and just chat
+Bot can perform some commands (you may see it in special window "Команды") and just chat
